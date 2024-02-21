@@ -6,6 +6,7 @@ async fn hello_world(input_str: String) -> String {
 
 async fn goodbye_world(input_str: String) -> String {
     format!("Goodbye, {}", input_str)
+    "Hello, Josh! Get fucked!"
 }
 
 #[shuttle_runtime::main]
